@@ -378,9 +378,6 @@ GET /health
 - **Market Orders**: Remaining quantity cancelled if no more matches
 - **Status Updates**: `open` → `partial` → `filled` or `cancelled`
 
-
-```
-
 ## 🧪 **Testing & Validation**
 
 ### **Automated Test Scripts**
